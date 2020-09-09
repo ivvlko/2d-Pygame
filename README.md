@@ -4,6 +4,6 @@ Python version - 3.8.2
 
 PyGame version - 1.9.6
 
-[![video:](https://i9.ytimg.com/vi/EaV3gZOxynI/mq2.jpg?sqp=CODR3foF&rs=AOn4CLBabVzaR-CvCJMlJShTrzQrUgJ5bQ) - video: https://www.youtube.com/watch?v=EaV3gZOxynI&feature=youtu.be
+![https://www.youtube.com/watch?v=EaV3gZOxynI&feature=youtu.be](https://i.ibb.co/wWKFmHZ/mq2.jpg)
 
 Link to download: https://easyupload.io/trwa1w     password - pygame
